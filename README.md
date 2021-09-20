@@ -7,7 +7,7 @@ The wizard file has been updated as well to include the heli option.
 
 Delete the existing files in your SCRIPT/WIZARD folder
 
-Download the files (heli folder) and place them in your SCRIPT/WIZARD folder.
+Download the files ( in the heli folder) and place them in your SCRIPT/WIZARD folder.
 
 ## The Flybar setup will not work with until the next firmware update (2.3.15).
 
